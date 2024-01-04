@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: agbalumo;
+  src: url(../src/assets/fonts/Agbalumo/Agbalumo-Regular.ttf);
+}
+
+@font-face {
+  font-family: zodiac;
+  src: url(../src/assets/fonts/ge-zodiac-font/GeZodiac-ow4d.ttf);
+}
